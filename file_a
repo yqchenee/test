@@ -1,3 +1,7 @@
 hello world
 here test2
+<<<<<<< HEAD
 hello world from test2
+=======
+new change from test1
+>>>>>>> df42d7a3f813f3baa85910d3c66d1b4340943263
